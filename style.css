@@ -1,1 +1,12 @@
-body{background-color: rgb(253, 205, 255);}
+body{background-color: rgb(253, 205, 255);
+
+
+
+    display:flex ;
+justify-content: space-around;
+
+}
+
+.logo-educa{
+    width: 10%;
+}
